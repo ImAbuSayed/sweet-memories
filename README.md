@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories/) |
+| **Get License** | [Request Licensing for Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still trace the empty spaces where your fingers used to stray
+> Waking up to quiet echoes of the words you didn't say
+> There is a fire in the embers burning through the midnight chill
+> I am holding onto moments that are standing perfectly still
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
