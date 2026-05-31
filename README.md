@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories/) |
+| **Get License** | [Commercial Licensing for Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5db6305dda405da8127be77f726eeee903500b57c70fac8c9b7aba77e6b46bbe` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
